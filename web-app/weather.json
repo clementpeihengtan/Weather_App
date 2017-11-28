@@ -1,0 +1,8 @@
+[
+    {
+        "id" : "1234ABCD",
+        "time" : "12 July 2017 08:13:00",
+        "temperature": 75.0,
+        "humidity" : 37
+    }
+]
