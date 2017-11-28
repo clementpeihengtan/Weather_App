@@ -21,8 +21,8 @@ You must install [node.js]('https://nodejs.org/en/download/') and npm before run
 Run the command below in the file directory.
 
 ```
-> npm install
-> npm start
+$ npm install
+$ npm start
 ```
 
 To test the functionality of database. Change the BASE URL in data-api.js and make some minor modification on the url. The data should be able to get populated on the website. Database is not yet setup.
