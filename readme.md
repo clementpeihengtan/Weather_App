@@ -8,6 +8,14 @@ The reason I am using react js is that it is supported in different operating sy
 
 The reason I am using mongodb, is because it is easy to scale out, when data gets more and more, it is still easy to handle. It is also much faster to query and update data. 
 
+# Problem encounter 
+
+When I was trying to access a different domain to get the data, browser doesn't allow me to query data from other domain due to security issue. In order to simulate a similar environment, I created a sample json file on my github repository and query data from there. If I was able to redirect the content of the database to my current domain, I am able to get the data without any problem. 
+
+# Requirement 
+
+You must install [node.js]('https://nodejs.org/en/download/') and npm before run the command below. 
+
 # How to run
 
 Run the command below in the file directory.
