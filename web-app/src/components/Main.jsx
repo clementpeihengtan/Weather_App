@@ -5,7 +5,7 @@ import axios from 'axios';
 import {getWeatherData} from "../utils/data-api";
 
 import "../index.css";
-const BASE_URL = "https://raw.githubusercontent.com/clementpeihengtan/clement-tph/gh-pages/data.json";
+const BASE_URL = "http://localhost:3001/api/data";
 
 class Main extends Component {
     constructor() {
