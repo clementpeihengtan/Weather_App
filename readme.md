@@ -43,7 +43,7 @@ You must install [node.js]('https://nodejs.org/en/download/') and npm before run
 # How to run
 
 1. To start up the server, you need to have monogdb available
-2. Go to <mark>src/components</mark>
+2. Go to <mark>src/API</mark>
 
 ```
 $ node server.js
